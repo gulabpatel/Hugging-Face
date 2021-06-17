@@ -1,4 +1,4 @@
-# Hugging-Face
+# Hugging-Face Course
 
 ## Chapter 0 : Setup
 https://huggingface.co/course/chapter0?fw=pt
